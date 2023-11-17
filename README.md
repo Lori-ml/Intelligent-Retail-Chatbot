@@ -8,11 +8,9 @@ This chatbot has been created in Streamlit and it interacts with a retail DataMa
 
 **2.rdd.py:** Code in this file provides the presentation logic for user responses.
 
-```bash
-streamlit run rdd.py
-```
-
 ## Demo
 
-https://github.com/Lori-ml/Intelligent-Retail-Chatbot/assets/41455899/3ce2a29b-f4e7-4076-91cb-c4e32160f729
+https://github.com/Lori-ml/Intelligent-Retail-Chatbot/assets/41455899/01a6f483-7fbb-43dd-9428-34c9d127e117
+
+
 
